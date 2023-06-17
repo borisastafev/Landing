@@ -4,7 +4,7 @@
 ![image](https://github.com/borisastafev/Landing/assets/95638288/814171c4-b660-42e9-b6ec-afb1cf204496)
 ***
 
-** In outline
+## In outline
 I will go through the following key bullets:
 * a responsive hamburger menu
 * a dark and light theme switcher
