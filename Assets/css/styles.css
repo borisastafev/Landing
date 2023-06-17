@@ -169,6 +169,12 @@ body.dark footer {
 }
 
 @media screen and (max-width: 768px) {
+
+    .logo:hover {
+        color: blueviolet;
+        }
+
+
     .hamburger {
         display: block;
         width: 30px;
